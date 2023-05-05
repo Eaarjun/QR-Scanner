@@ -16,8 +16,7 @@ Add this to your package's pubspec.yaml file:
  <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
  <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
 ```
-#Reference:
-<br></br>
- 
+# Reference:
+```bash
 https://pub.dev/packages/qrscan
-    
+```

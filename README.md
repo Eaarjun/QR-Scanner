@@ -22,3 +22,6 @@ dependencies:
  ```bash
 https://pub.dev/packages/qrscan
 ```
+```bash
+    i three gsap
+    ```

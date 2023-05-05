@@ -11,7 +11,7 @@ Add this to your package's pubspec.yaml file:
   qrscan: ^0.3.3
  ```
  # Permission:
- <br></br>
+
   ```bash
  <uses-permission android:name="android.permission.CAMERA" />
  <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>

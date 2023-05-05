@@ -12,11 +12,11 @@ Add this to your package's pubspec.yaml file:
  ```
  # Permission:
  <br></br>
- 
+  ```bash
  <uses-permission android:name="android.permission.CAMERA" />
  <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
  <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
-
+```
 #Reference:
 <br></br>
  

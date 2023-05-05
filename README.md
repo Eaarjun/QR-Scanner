@@ -5,7 +5,7 @@ This is a Flutter APP which can scan QR-Code and display the value
 
 # Installation:
 <br></br>
-<p>Add this to your package's pubspec.yaml file:</p>
+Add this to your package's pubspec.yaml file:
  ```bash
  dependencies:
  qrscan: ^0.3.3
